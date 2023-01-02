@@ -1,0 +1,28 @@
+npm init -y
+npm install express
+node server.js
+
+
+
+1. sudo yum update
+2. sudo yum install git
+3. y
+4. sudo yum install docker
+5. y
+6. sudo systemctl start docker
+7. sudo systemctl enable docker
+8. sudo systemctl status docker
+9. sudo git clone url
+10. ls
+11. cd folder
+12. ls
+13.  cd folder
+14. sudo docker build -t foldername .
+15. sudo docker run -d -p external_port_id:internal_port_id foldername
+16. sudo docker images
+17. sudo docker ps
+
+
+
+Copy public ip
+Paste on url search bar along with colon ( : ) & external port id
